@@ -1,0 +1,83 @@
+ /* smartphone view 375px and down */
+@media (max-width: 375px) {
+  .slash {
+    display: none;
+  }
+
+  .top-banner h1{
+    font-size:1.5em;
+  }
+
+  .top-banner h3 {
+    font-size:0.8em;
+  }
+  
+
+  .stylist-evaluation h6 {
+    font-size:0.8em;
+  }
+
+  .stylist-evaluation h4 {
+    font-size:1.3em;
+    font-weight:bold;
+  }
+
+  .stylist-evaluation h5 {
+    font-weight:bold;
+    font-size:1.1em;
+  }
+
+  .section_001 h4 {
+    font-size:0.9em;
+    font-weight:bold;
+  }
+
+  .section_002 h2 {
+    font-size:20px;
+  }
+
+  .section_002 p {
+    font-size: 0.8em;
+  }
+
+  .section_003 .text_003 h5 {
+    font-size: 0.8em;
+  }
+
+  .panel-title {
+    font-size: 0.9em;
+  }
+
+  .section001 p {
+    font-size: 0.8em;
+  }
+
+  .section002 .text h3 {
+    font-size: 1.5em;
+  }
+
+  .section002 .text p {
+    font-size: 0.9em;
+  }
+
+  .shampoo-treatment h3 {
+    font-size: 18px;
+  }
+
+  .one-by-one h2 {
+    font-size: 1.4em;
+  }
+
+  .trial-set .trial-set-item {
+    width: 95%;
+  }
+
+  .subscription-warning h4 {
+    font-size: 0.9em;
+  }
+
+  .subscription-warning h5 {
+    font-size: 1.4em;
+  }
+
+}
